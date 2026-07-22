@@ -1,0 +1,9 @@
+biopython
+Jinja2>=3,<4
+matplotlib
+numpy
+openpyxl
+pandas
+rpy2
+scipy
+
